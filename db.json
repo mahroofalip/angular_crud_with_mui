@@ -1,0 +1,104 @@
+{
+  "productList": [
+    {
+      "productName": "sdfdsf",
+      "category": "Vegitables",
+      "freshness": "Brand New",
+      "price": 343,
+      "comment": "sdfdsf",
+      "date": "2023-01-30T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "dsfdsf",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 34,
+      "comment": "3343dsdsfds",
+      "date": "2023-01-26T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "sdfsfds",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 2344,
+      "comment": "dsfsfds",
+      "date": "2023-01-19T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "3refds",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 34,
+      "comment": "dsfs",
+      "date": "2023-01-26T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "eds",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 3,
+      "comment": "ews",
+      "date": "2023-01-30T18:30:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "3eds",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 34,
+      "comment": "sdfs",
+      "date": "2023-01-26T18:30:00.000Z",
+      "id": 10
+    },
+    {
+      "productName": "ewfds",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 34434,
+      "comment": "3434",
+      "date": "2023-01-27T18:30:00.000Z",
+      "id": 11
+    },
+    {
+      "productName": "dsfsf",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 434,
+      "comment": "sdfsf",
+      "date": "2023-01-27T18:30:00.000Z",
+      "id": 12
+    },
+    {
+      "productName": "iphone",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 56,
+      "comment": "kdsfsdlfdslkm",
+      "date": "2023-01-20T18:30:00.000Z",
+      "id": 13
+    },
+    {
+      "productName": "newone",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 8,
+      "comment": "yyyyy",
+      "date": "2023-01-19T18:30:00.000Z",
+      "id": 14
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
